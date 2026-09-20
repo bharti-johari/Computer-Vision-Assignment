@@ -1,4 +1,4 @@
-# Computer Vision – Day 1 Assignment
+# Computer Vision Assignment
 > **Sample image:** The assignment outputs in this repository were generated from the provided real-world `sample.jpg` (forest photograph), not from a synthetic generated image.
 
 Complete solutions for the **25 Python + OpenCV coding questions** in the provided assignment.
